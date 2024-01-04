@@ -1,16 +1,17 @@
-//******************************************************************************************************************
+//**********************************************************************************************************************************
 // Tetris.java         Author:Ali Berk Karaarslan     Date:05.10.2023
 //
-// To change the game mode, change "gameMode" variable. You can play "new" or "classic" modes
-// "new" -> Allow to hold and hard drop. Also shows where it will fall
-// "classic" -> Original NES mode.
+// To change the game mode, set "gameMode" variable as "new" or "classic".
+// "classic" -> Original NES mode. There is no hold and hard drop mechanics. Also it is not shows where the tetromino will fall. 
+// "new" -> Current Tetris mode. Allows to hold and hard drop mechanics. Also shows where the tetromino will fall.
 //
 // =CONTROLS=
 // Movement: Left/Right Arrow Keys         Rotate Left: Z
 // Soft Drop: Down Arrow Key               Rotate Right: X/Up Arrow Key
 // Hard Drop: Space                        Pause: Escape
 // Hold: C
-//******************************************************************************************************************
+//
+//**********************************************************************************************************************************
 
 import javax.swing.*;
 import java.awt.*;
