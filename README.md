@@ -2,7 +2,7 @@
 Original Tetris Game in Java
 
 ## Running The Program
-Compile and run "Tetris.java"
+Could be run directly from "Tetris (By Ali Berk Karaarslan).jar" or compile and run "Tetris.java"
 
 ## Game Controls:
 Movement: Left/Right Arrow Keys
