@@ -22,7 +22,7 @@ Pause: Escape
 ## Game Modes:
 Currently there is two game modes. "new" and "classic". To change the game mode, set "gameMode" variable as "new" or "classic".
 
-"classic" -> Original NES mode. There is no hold and hard drop mechanics. Also it is not shows where the tetromino will fall. 
+"classic" -> Original NES mode. There is no hold and hard drop mechanics. Also it does not show where the tetromino will fall. 
 
 "new" -> Current Tetris mode. Allows to hold and hard drop mechanics. Also shows where the tetromino will fall.
 
