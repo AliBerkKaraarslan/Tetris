@@ -31,8 +31,3 @@ Currently there is two game modes. "new" and "classic". To change the game mode,
 Ali Berk Karaarslan
 
 2023
-
-##
-
-![TetrisScreenShot](https://github.com/AliBerkKaraarslan/Tetris_in_Java/assets/126316526/1ab0204a-9fa0-40f5-b34c-8f47f4711020)
-
