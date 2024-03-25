@@ -32,3 +32,7 @@ Ali Berk Karaarslan
 
 2023
 
+##
+
+![TetrisScreenShot](https://github.com/AliBerkKaraarslan/Tetris_in_Java/assets/126316526/1ab0204a-9fa0-40f5-b34c-8f47f4711020)
+
