@@ -31,3 +31,6 @@ Currently there is two game modes. "new" and "classic". To change the game mode,
 Ali Berk Karaarslan
 
 2023
+
+##
+![TetrisScreenShot](https://github.com/user-attachments/assets/356528fa-393d-415f-b8ae-ceae34633f78)
